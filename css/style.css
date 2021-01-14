@@ -1,5 +1,5 @@
-.logo-img, .other-section>img{
-    width: 60%;
+.logo, .other-section>img{
+    max-width: 15em; 
     padding: 1em;
 }
 .header-section{
@@ -24,5 +24,9 @@
     padding: 2em;
     max-height: 22em;
     border-radius: 1em;
+}
+.other-section>img{
+    max-width: 10em;
+    padding: 2em;
 }
 
