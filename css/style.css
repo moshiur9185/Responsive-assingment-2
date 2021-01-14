@@ -1,0 +1,28 @@
+.logo-img, .other-section>img{
+    width: 60%;
+    padding: 1em;
+}
+.header-section{
+    background-color: rgb(255, 251, 240);
+}
+.heighlight-orange{
+    color: rgb(250, 190, 76);
+}
+.button-color{
+    background-color: rgb(157, 181, 59);
+    color: white;
+}
+.penguin-card{
+    border: 0;
+
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+.main-card-img{
+    padding: 2em;
+    max-height: 22em;
+    border-radius: 1em;
+}
+
